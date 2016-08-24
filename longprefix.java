@@ -3,7 +3,7 @@ class longprefix
 public static void main(String[] args)
 {
 Scanner sc=new Scanner(System.in);
-system.out.prinln("enter the 10 string:");
+system.out.println("enter the 10 string:");
 String[] x=new String[10];
 int maxlen=0;
 for(int i=0;i<10;i++)
