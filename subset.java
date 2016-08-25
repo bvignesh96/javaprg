@@ -15,7 +15,7 @@ for(int i=0;i<s2;i++)
   int c=0;
 for(int i=0;i<s1;i++)
   for(int j=0;j<s2;j++)
-  if(a1[i]==a2[j]
+  if(a1[i]==a2[j])
   {
   c+=1;
   break;
