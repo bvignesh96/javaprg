@@ -5,7 +5,7 @@ public static void main(String[] args)
 {
 Scanner sc=new Scanner(System.in);
 System.out.println("enter the line of text:");
-String s=sc.next();
+String s=sc.nextLine();
 String[] sp=s.split(" ");
 String output="";
 for(int i=0;i<sp.length;i++)
