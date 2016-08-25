@@ -11,7 +11,7 @@ System.out.println("enter elements:");
 for(int i=0;i<s;i++)
   arr[i]=sc.nextInt();
 for(int i=0;i<s;i++)
-  for(int j=i+1;i<s;j++)
+  for(int j=i+1;j<s;j++)
       if(arr[i]==arr[j])
       {
       System.out.println("first repeated number is:"+arr[i]);
