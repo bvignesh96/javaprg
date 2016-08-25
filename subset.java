@@ -10,6 +10,7 @@ int s2=sc.nextInt();int[] a2=new int[s2];
 System.out.println("enter Array 1 ele:");
 for(int i=0;i<s1;i++)
   a1[i]=sc.nextInt();
+  System.out.println("enter Array 2 ele:");
 for(int i=0;i<s2;i++)
   a2[i]=sc.nextInt();
   int c=0;
